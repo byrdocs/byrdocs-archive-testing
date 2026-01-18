@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: b34cf727428995f6cfaf7f98ed147abe
-url: https://byrdocs.org/files/b34cf727428995f6cfaf7f98ed147abe.pdf
+url: https://byrdocs.cpphusky.xyz/files/b34cf727428995f6cfaf7f98ed147abe.pdf
 type: test
 data:
   college:
-    - 国际学院
+  - 国际学院
   course:
     name: 概率论与随机过程
     type: 本科
@@ -15,4 +15,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

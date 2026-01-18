@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1fafcd64ba68c141eaa693b6f5d6e873
-url: https://byrdocs.org/files/1fafcd64ba68c141eaa693b6f5d6e873.pdf
+url: https://byrdocs.cpphusky.xyz/files/1fafcd64ba68c141eaa693b6f5d6e873.pdf
 type: book
 data:
   title: 复杂系统与复杂网络

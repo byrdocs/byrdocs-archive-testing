@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 929b52d0b585643ba3fc6617e11a661b
-url: https://byrdocs.org/files/929b52d0b585643ba3fc6617e11a661b.pdf
+url: https://byrdocs.cpphusky.xyz/files/929b52d0b585643ba3fc6617e11a661b.pdf
 type: book
 data:
   title: 数学建模方法与分析（原书第2版）

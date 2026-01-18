@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: fbbf428e356bc619c4b18dc002b3cd63
-url: https://byrdocs.org/files/fbbf428e356bc619c4b18dc002b3cd63.pdf
+url: https://byrdocs.cpphusky.xyz/files/fbbf428e356bc619c4b18dc002b3cd63.pdf
 type: book
 data:
   title: Computer Architecture - A Quantitative Approach

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 093867ede03624d5e443fe575bafaceb
-url: https://byrdocs.org/files/093867ede03624d5e443fe575bafaceb.pdf
+url: https://byrdocs.cpphusky.xyz/files/093867ede03624d5e443fe575bafaceb.pdf
 type: book
 data:
   title: 'Optimization Based Data Mining: Theory and Applications'

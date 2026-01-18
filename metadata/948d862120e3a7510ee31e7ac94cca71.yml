@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 948d862120e3a7510ee31e7ac94cca71
-url: https://byrdocs.org/files/948d862120e3a7510ee31e7ac94cca71.pdf
+url: https://byrdocs.cpphusky.xyz/files/948d862120e3a7510ee31e7ac94cca71.pdf
 type: book
 data:
   title: 空时无线通信导论

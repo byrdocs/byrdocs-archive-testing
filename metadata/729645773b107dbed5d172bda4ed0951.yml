@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 729645773b107dbed5d172bda4ed0951
-url: https://byrdocs.org/files/729645773b107dbed5d172bda4ed0951.pdf
+url: https://byrdocs.cpphusky.xyz/files/729645773b107dbed5d172bda4ed0951.pdf
 type: book
 data:
   title: Robust Optimization

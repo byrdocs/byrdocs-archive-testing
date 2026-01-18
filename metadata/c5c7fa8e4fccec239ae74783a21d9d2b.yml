@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: c5c7fa8e4fccec239ae74783a21d9d2b
-url: https://byrdocs.org/files/c5c7fa8e4fccec239ae74783a21d9d2b.pdf
+url: https://byrdocs.cpphusky.xyz/files/c5c7fa8e4fccec239ae74783a21d9d2b.pdf
 type: book
 data:
   title: 'Combinatorial Optimization: Polyhedra and Efficiency'

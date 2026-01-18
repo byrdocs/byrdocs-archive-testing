@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 011170ccba0f48b62db6b02474516d49
-url: https://byrdocs.org/files/011170ccba0f48b62db6b02474516d49.pdf
+url: https://byrdocs.cpphusky.xyz/files/011170ccba0f48b62db6b02474516d49.pdf
 type: book
 data:
   title: Lectures on Modern Optimization

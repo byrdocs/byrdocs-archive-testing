@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 2d2dca0dea2e5158c82d49c4b571ea7a
-url: https://byrdocs.org/files/2d2dca0dea2e5158c82d49c4b571ea7a.pdf
+url: https://byrdocs.cpphusky.xyz/files/2d2dca0dea2e5158c82d49c4b571ea7a.pdf
 type: test
 data:
   course:
@@ -14,4 +14,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

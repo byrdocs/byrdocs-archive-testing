@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 28d669ed25a04beecd3bf750d46c2ec5
-url: https://byrdocs.org/files/28d669ed25a04beecd3bf750d46c2ec5.pdf
+url: https://byrdocs.cpphusky.xyz/files/28d669ed25a04beecd3bf750d46c2ec5.pdf
 type: book
 data:
   title: 统计学：从数据到结论

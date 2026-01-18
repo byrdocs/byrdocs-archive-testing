@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: cea6f356655a3c870392f19d8b0720fb
-url: https://byrdocs.org/files/cea6f356655a3c870392f19d8b0720fb.pdf
+url: https://byrdocs.cpphusky.xyz/files/cea6f356655a3c870392f19d8b0720fb.pdf
 type: book
 data:
   title: 线性代数与几何学习辅导

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 6ede300e49c07cfa650f4c920d7eb049
-url: https://byrdocs.org/files/6ede300e49c07cfa650f4c920d7eb049.pdf
+url: https://byrdocs.cpphusky.xyz/files/6ede300e49c07cfa650f4c920d7eb049.pdf
 type: book
 data:
   title: 形式语言与自动机导论（原书第3版）

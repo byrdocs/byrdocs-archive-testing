@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: d6518bfa7ce38149fce9e7dcff22874a
-url: https://byrdocs.org/files/d6518bfa7ce38149fce9e7dcff22874a.pdf
+url: https://byrdocs.cpphusky.xyz/files/d6518bfa7ce38149fce9e7dcff22874a.pdf
 type: book
 data:
   title: 数据结构：C++语言版

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: db88b5202d55128296d337ab7c2da1f2
-url: https://byrdocs.org/files/db88b5202d55128296d337ab7c2da1f2.pdf
+url: https://byrdocs.cpphusky.xyz/files/db88b5202d55128296d337ab7c2da1f2.pdf
 type: book
 data:
   title: 数据结构与算法分析：Java语言描述（原书第2版）

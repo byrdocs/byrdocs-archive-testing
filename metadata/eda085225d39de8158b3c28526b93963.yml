@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: eda085225d39de8158b3c28526b93963
-url: https://byrdocs.org/files/eda085225d39de8158b3c28526b93963.pdf
+url: https://byrdocs.cpphusky.xyz/files/eda085225d39de8158b3c28526b93963.pdf
 type: book
 data:
   title: 应用随机过程概率模型导论（第11版）

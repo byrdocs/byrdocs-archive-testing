@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 9e97ba438d3141efff684e7e8e472f9d
-url: https://byrdocs.org/files/9e97ba438d3141efff684e7e8e472f9d.pdf
+url: https://byrdocs.cpphusky.xyz/files/9e97ba438d3141efff684e7e8e472f9d.pdf
 type: test
 data:
   college:
-    - 未来学院
+  - 未来学院
   course:
     name: 数学分析（上）
     type: 本科
@@ -16,5 +16,5 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

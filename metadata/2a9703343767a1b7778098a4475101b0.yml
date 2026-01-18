@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 2a9703343767a1b7778098a4475101b0
-url: https://byrdocs.org/files/2a9703343767a1b7778098a4475101b0.pdf
+url: https://byrdocs.cpphusky.xyz/files/2a9703343767a1b7778098a4475101b0.pdf
 type: book
 data:
   title: 'Computer Systems: A Programmer’s Perspective'

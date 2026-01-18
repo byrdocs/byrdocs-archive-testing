@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 90b7588f7111e0fc3898bcd3926ef110
-url: https://byrdocs.org/files/90b7588f7111e0fc3898bcd3926ef110.pdf
+url: https://byrdocs.cpphusky.xyz/files/90b7588f7111e0fc3898bcd3926ef110.pdf
 type: test
 data:
   college:
-    - 经济管理学院
+  - 经济管理学院
   course:
     name: 高等数学B（上）
     type: 本科
@@ -16,5 +16,5 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: d0853b6e2ce355f12b4f119dea47567a
-url: https://byrdocs.org/files/d0853b6e2ce355f12b4f119dea47567a.pdf
+url: https://byrdocs.cpphusky.xyz/files/d0853b6e2ce355f12b4f119dea47567a.pdf
 type: book
 data:
   title: 计算机系统要素：从零开始构建现代计算机

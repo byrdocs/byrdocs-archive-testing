@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 77cc3dc2ebdbebdaffee36cb07b32f8f
-url: https://byrdocs.org/files/77cc3dc2ebdbebdaffee36cb07b32f8f.pdf
+url: https://byrdocs.cpphusky.xyz/files/77cc3dc2ebdbebdaffee36cb07b32f8f.pdf
 type: book
 data:
   title: 'Database Systems: A pracital Approach to Design, Implementation, and Management'

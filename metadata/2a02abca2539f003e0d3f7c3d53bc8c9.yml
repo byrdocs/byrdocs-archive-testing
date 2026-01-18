@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 2a02abca2539f003e0d3f7c3d53bc8c9
-url: https://byrdocs.org/files/2a02abca2539f003e0d3f7c3d53bc8c9.pdf
+url: https://byrdocs.cpphusky.xyz/files/2a02abca2539f003e0d3f7c3d53bc8c9.pdf
 type: book
 data:
   title: 统计学基础

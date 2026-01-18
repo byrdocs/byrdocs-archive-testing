@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 4b61949bdb42c49872544de9a2659f42
-url: https://byrdocs.org/files/4b61949bdb42c49872544de9a2659f42.pdf
+url: https://byrdocs.cpphusky.xyz/files/4b61949bdb42c49872544de9a2659f42.pdf
 type: book
 data:
   title: 程控数字交换与现代通信网

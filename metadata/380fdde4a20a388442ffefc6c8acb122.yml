@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 380fdde4a20a388442ffefc6c8acb122
-url: https://byrdocs.org/files/380fdde4a20a388442ffefc6c8acb122.pdf
+url: https://byrdocs.cpphusky.xyz/files/380fdde4a20a388442ffefc6c8acb122.pdf
 type: book
 data:
   title: Introduction to Linear Optimization

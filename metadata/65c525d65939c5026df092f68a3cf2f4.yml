@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 65c525d65939c5026df092f68a3cf2f4
-url: https://byrdocs.org/files/65c525d65939c5026df092f68a3cf2f4.pdf
+url: https://byrdocs.cpphusky.xyz/files/65c525d65939c5026df092f68a3cf2f4.pdf
 type: book
 data:
   title: C程序设计语言

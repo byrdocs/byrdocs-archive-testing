@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: e6cd17de3be97c3c626426b5ed063025
-url: https://byrdocs.org/files/e6cd17de3be97c3c626426b5ed063025.pdf
+url: https://byrdocs.cpphusky.xyz/files/e6cd17de3be97c3c626426b5ed063025.pdf
 type: book
 data:
   title: 常微分方程教程

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 978c8ddebadc346a0d5d74c8a0d8de9a
-url: https://byrdocs.org/files/978c8ddebadc346a0d5d74c8a0d8de9a.pdf
+url: https://byrdocs.cpphusky.xyz/files/978c8ddebadc346a0d5d74c8a0d8de9a.pdf
 type: book
 data:
   title: 移动通信原理与系统

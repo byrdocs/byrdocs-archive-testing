@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 60d948647e7c2e9d5b7c41807a2680e6
-url: https://byrdocs.org/files/60d948647e7c2e9d5b7c41807a2680e6.pdf
+url: https://byrdocs.cpphusky.xyz/files/60d948647e7c2e9d5b7c41807a2680e6.pdf
 type: book
 data:
   title: 离散数学与组合数学（第5版）

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 2f37e55c5a9b4f14c5e64697dcf71306
-url: https://byrdocs.org/files/2f37e55c5a9b4f14c5e64697dcf71306.pdf
+url: https://byrdocs.cpphusky.xyz/files/2f37e55c5a9b4f14c5e64697dcf71306.pdf
 type: book
 data:
   title: Measure Theory

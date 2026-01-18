@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1845f6e3009e3db04bb9f3cbbc2b0713
-url: https://byrdocs.org/files/1845f6e3009e3db04bb9f3cbbc2b0713.pdf
+url: https://byrdocs.cpphusky.xyz/files/1845f6e3009e3db04bb9f3cbbc2b0713.pdf
 type: book
 data:
   title: 机器学习

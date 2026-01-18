@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 34dcff3d4e7faaaa747a5e2c0adf5ff8
-url: https://byrdocs.org/files/34dcff3d4e7faaaa747a5e2c0adf5ff8.pdf
+url: https://byrdocs.cpphusky.xyz/files/34dcff3d4e7faaaa747a5e2c0adf5ff8.pdf
 type: book
 data:
   title: 计算机导论与程序设计基础

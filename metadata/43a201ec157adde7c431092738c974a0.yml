@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 43a201ec157adde7c431092738c974a0
-url: https://byrdocs.org/files/43a201ec157adde7c431092738c974a0.pdf
+url: https://byrdocs.cpphusky.xyz/files/43a201ec157adde7c431092738c974a0.pdf
 type: book
 data:
   title: 图论及其应用

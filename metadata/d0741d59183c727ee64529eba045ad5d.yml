@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: d0741d59183c727ee64529eba045ad5d
-url: https://byrdocs.org/files/d0741d59183c727ee64529eba045ad5d.pdf
+url: https://byrdocs.cpphusky.xyz/files/d0741d59183c727ee64529eba045ad5d.pdf
 type: book
 data:
   title: 通信原理

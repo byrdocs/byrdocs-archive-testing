@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 7312960d0fb110104ea01347f30cc98a
-url: https://byrdocs.org/files/7312960d0fb110104ea01347f30cc98a.pdf
+url: https://byrdocs.cpphusky.xyz/files/7312960d0fb110104ea01347f30cc98a.pdf
 type: book
 data:
   title: Operating System Concepts

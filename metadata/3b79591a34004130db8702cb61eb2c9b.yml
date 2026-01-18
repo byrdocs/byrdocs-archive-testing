@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 3b79591a34004130db8702cb61eb2c9b
-url: https://byrdocs.org/files/3b79591a34004130db8702cb61eb2c9b.pdf
+url: https://byrdocs.cpphusky.xyz/files/3b79591a34004130db8702cb61eb2c9b.pdf
 type: book
 data:
   title: Real-World Cryptography

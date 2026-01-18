@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9800ddaf26c45d7246e796f3ff4cc53d
-url: https://byrdocs.org/files/9800ddaf26c45d7246e796f3ff4cc53d.pdf
+url: https://byrdocs.cpphusky.xyz/files/9800ddaf26c45d7246e796f3ff4cc53d.pdf
 type: book
 data:
   title: 矩阵计算（第3版）

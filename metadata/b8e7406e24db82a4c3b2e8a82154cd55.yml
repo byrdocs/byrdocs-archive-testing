@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: b8e7406e24db82a4c3b2e8a82154cd55
-url: https://byrdocs.org/files/b8e7406e24db82a4c3b2e8a82154cd55.pdf
+url: https://byrdocs.cpphusky.xyz/files/b8e7406e24db82a4c3b2e8a82154cd55.pdf
 type: book
 data:
   title: 电路分析基础

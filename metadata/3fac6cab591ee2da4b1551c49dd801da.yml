@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 3fac6cab591ee2da4b1551c49dd801da
-url: https://byrdocs.org/files/3fac6cab591ee2da4b1551c49dd801da.pdf
+url: https://byrdocs.cpphusky.xyz/files/3fac6cab591ee2da4b1551c49dd801da.pdf
 type: book
 data:
   title: 光纤通信系统

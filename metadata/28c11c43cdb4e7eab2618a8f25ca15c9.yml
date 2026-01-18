@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 28c11c43cdb4e7eab2618a8f25ca15c9
-url: https://byrdocs.org/files/28c11c43cdb4e7eab2618a8f25ca15c9.pdf
+url: https://byrdocs.cpphusky.xyz/files/28c11c43cdb4e7eab2618a8f25ca15c9.pdf
 type: book
 data:
   title: 线性代数/Linear Algebra

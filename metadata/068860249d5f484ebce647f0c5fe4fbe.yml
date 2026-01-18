@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 068860249d5f484ebce647f0c5fe4fbe
-url: https://byrdocs.org/files/068860249d5f484ebce647f0c5fe4fbe.pdf
+url: https://byrdocs.cpphusky.xyz/files/068860249d5f484ebce647f0c5fe4fbe.pdf
 type: book
 data:
   title: Secure Coding in C and C++

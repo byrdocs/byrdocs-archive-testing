@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 86d4086945a3acef642cf7d0e1503b2b
-url: https://byrdocs.org/files/86d4086945a3acef642cf7d0e1503b2b.pdf
+url: https://byrdocs.cpphusky.xyz/files/86d4086945a3acef642cf7d0e1503b2b.pdf
 type: book
 data:
   title: 现代数字电路与逻辑设计实验教程

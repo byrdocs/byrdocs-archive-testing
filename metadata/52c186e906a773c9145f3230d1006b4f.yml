@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 52c186e906a773c9145f3230d1006b4f
-url: https://byrdocs.org/files/52c186e906a773c9145f3230d1006b4f.pdf
+url: https://byrdocs.cpphusky.xyz/files/52c186e906a773c9145f3230d1006b4f.pdf
 type: book
 data:
   title: 组合数学

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1765e8a076c70fe1849dd6845a3ead4a
-url: https://byrdocs.org/files/1765e8a076c70fe1849dd6845a3ead4a.pdf
+url: https://byrdocs.cpphusky.xyz/files/1765e8a076c70fe1849dd6845a3ead4a.pdf
 type: book
 data:
   title: 离散数学

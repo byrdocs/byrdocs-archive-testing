@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 8fc9ba46eada59173218622b083db847
-url: https://byrdocs.org/files/8fc9ba46eada59173218622b083db847.pdf
+url: https://byrdocs.cpphusky.xyz/files/8fc9ba46eada59173218622b083db847.pdf
 type: book
 data:
   title: Python与Tkinter编程

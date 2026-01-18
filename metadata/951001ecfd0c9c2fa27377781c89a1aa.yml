@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 951001ecfd0c9c2fa27377781c89a1aa
-url: https://byrdocs.org/files/951001ecfd0c9c2fa27377781c89a1aa.pdf
+url: https://byrdocs.cpphusky.xyz/files/951001ecfd0c9c2fa27377781c89a1aa.pdf
 type: book
 data:
   title: 信息论、编码与密码学

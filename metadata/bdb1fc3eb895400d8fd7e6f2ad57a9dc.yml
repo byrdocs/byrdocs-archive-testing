@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: bdb1fc3eb895400d8fd7e6f2ad57a9dc
-url: https://byrdocs.org/files/bdb1fc3eb895400d8fd7e6f2ad57a9dc.pdf
+url: https://byrdocs.cpphusky.xyz/files/bdb1fc3eb895400d8fd7e6f2ad57a9dc.pdf
 type: book
 data:
   title: 微机原理与接口技术：基于ARM Cortex-M4

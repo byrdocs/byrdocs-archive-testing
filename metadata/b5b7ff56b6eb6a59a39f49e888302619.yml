@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: b5b7ff56b6eb6a59a39f49e888302619
-url: https://byrdocs.org/files/b5b7ff56b6eb6a59a39f49e888302619.pdf
+url: https://byrdocs.cpphusky.xyz/files/b5b7ff56b6eb6a59a39f49e888302619.pdf
 type: book
 data:
   title: 'The Linux Command Line: A Complete Introduction'

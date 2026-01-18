@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 58e52161ea2c5e72217a32ba92b5d720
-url: https://byrdocs.org/files/58e52161ea2c5e72217a32ba92b5d720.pdf
+url: https://byrdocs.cpphusky.xyz/files/58e52161ea2c5e72217a32ba92b5d720.pdf
 type: book
 data:
   title: 计算机系统结构学习指导与题解

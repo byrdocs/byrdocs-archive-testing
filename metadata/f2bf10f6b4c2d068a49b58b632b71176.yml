@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: f2bf10f6b4c2d068a49b58b632b71176
-url: https://byrdocs.org/files/f2bf10f6b4c2d068a49b58b632b71176.pdf
+url: https://byrdocs.cpphusky.xyz/files/f2bf10f6b4c2d068a49b58b632b71176.pdf
 type: book
 data:
   title: Convex Optimization

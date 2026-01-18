@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9a03cc9ad53d4d271d3c2f75f92e03e2
-url: https://byrdocs.org/files/9a03cc9ad53d4d271d3c2f75f92e03e2.pdf
+url: https://byrdocs.cpphusky.xyz/files/9a03cc9ad53d4d271d3c2f75f92e03e2.pdf
 type: book
 data:
   title: 数据结构与算法：AI与大数据版

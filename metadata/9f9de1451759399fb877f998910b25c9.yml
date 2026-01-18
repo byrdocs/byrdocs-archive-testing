@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9f9de1451759399fb877f998910b25c9
-url: https://byrdocs.org/files/9f9de1451759399fb877f998910b25c9.pdf
+url: https://byrdocs.cpphusky.xyz/files/9f9de1451759399fb877f998910b25c9.pdf
 type: book
 data:
   title: Introduction to Linear Algebra

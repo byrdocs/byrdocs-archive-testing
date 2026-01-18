@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: ff2eb431fa091c6f4cf2ac99ffef7c0e
-url: https://byrdocs.org/files/ff2eb431fa091c6f4cf2ac99ffef7c0e.pdf
+url: https://byrdocs.cpphusky.xyz/files/ff2eb431fa091c6f4cf2ac99ffef7c0e.pdf
 type: book
 data:
   title: 你必须知道的495个C语言问题

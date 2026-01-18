@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 0cb44163b35dc9438f0dd3c6610e8a75
-url: https://byrdocs.org/files/0cb44163b35dc9438f0dd3c6610e8a75.pdf
+url: https://byrdocs.cpphusky.xyz/files/0cb44163b35dc9438f0dd3c6610e8a75.pdf
 type: book
 data:
   title: Java 核心技术 卷I 基础知识（原书第10版）

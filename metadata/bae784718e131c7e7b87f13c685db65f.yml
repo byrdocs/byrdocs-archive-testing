@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: bae784718e131c7e7b87f13c685db65f
-url: https://byrdocs.org/files/bae784718e131c7e7b87f13c685db65f.pdf
+url: https://byrdocs.cpphusky.xyz/files/bae784718e131c7e7b87f13c685db65f.pdf
 type: test
 data:
   college:
-    - 电子工程学院
+  - 电子工程学院
   course:
     name: 大学物理E（下）
     type: 本科
@@ -16,5 +16,5 @@ data:
     stage: 期中
   filetype: pdf
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

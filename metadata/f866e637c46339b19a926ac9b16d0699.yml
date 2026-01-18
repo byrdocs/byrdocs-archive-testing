@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: f866e637c46339b19a926ac9b16d0699
-url: https://byrdocs.org/files/f866e637c46339b19a926ac9b16d0699.pdf
+url: https://byrdocs.cpphusky.xyz/files/f866e637c46339b19a926ac9b16d0699.pdf
 type: book
 data:
   title: 现代密码学教程

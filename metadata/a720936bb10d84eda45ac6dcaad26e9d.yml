@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: a720936bb10d84eda45ac6dcaad26e9d
-url: https://byrdocs.org/files/a720936bb10d84eda45ac6dcaad26e9d.pdf
+url: https://byrdocs.cpphusky.xyz/files/a720936bb10d84eda45ac6dcaad26e9d.pdf
 type: book
 data:
   title: 计算机算法设计与分析

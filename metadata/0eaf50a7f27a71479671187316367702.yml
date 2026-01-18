@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 0eaf50a7f27a71479671187316367702
-url: https://byrdocs.org/files/0eaf50a7f27a71479671187316367702.pdf
+url: https://byrdocs.cpphusky.xyz/files/0eaf50a7f27a71479671187316367702.pdf
 type: book
 data:
   title: Beginning Python

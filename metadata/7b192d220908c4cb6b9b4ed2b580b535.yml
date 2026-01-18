@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 7b192d220908c4cb6b9b4ed2b580b535
-url: https://byrdocs.org/files/7b192d220908c4cb6b9b4ed2b580b535.pdf
+url: https://byrdocs.cpphusky.xyz/files/7b192d220908c4cb6b9b4ed2b580b535.pdf
 type: test
 data:
   college:
-    - 国际学院
+  - 国际学院
   course:
     name: 电磁场与电磁波
     type: 本科
@@ -16,4 +16,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

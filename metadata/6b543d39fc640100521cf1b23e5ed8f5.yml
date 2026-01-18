@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 6b543d39fc640100521cf1b23e5ed8f5
-url: https://byrdocs.org/files/6b543d39fc640100521cf1b23e5ed8f5.pdf
+url: https://byrdocs.cpphusky.xyz/files/6b543d39fc640100521cf1b23e5ed8f5.pdf
 type: test
 data:
   college:
-    - 电子工程学院
-    - 计算机学院（国家示范性软件学院）
-    - 人工智能学院
+  - 电子工程学院
+  - 计算机学院（国家示范性软件学院）
+  - 人工智能学院
   course:
     name: 数学分析（上）
     type: 本科
@@ -18,5 +18,5 @@ data:
     stage: 期中
   filetype: pdf
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

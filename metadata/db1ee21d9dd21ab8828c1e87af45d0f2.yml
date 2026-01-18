@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: db1ee21d9dd21ab8828c1e87af45d0f2
-url: https://byrdocs.org/files/db1ee21d9dd21ab8828c1e87af45d0f2.pdf
+url: https://byrdocs.cpphusky.xyz/files/db1ee21d9dd21ab8828c1e87af45d0f2.pdf
 type: test
 data:
   course:

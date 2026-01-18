@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: abd263b9af0620e8a1b7e6a7c253f72e
-url: https://byrdocs.org/files/abd263b9af0620e8a1b7e6a7c253f72e.pdf
+url: https://byrdocs.cpphusky.xyz/files/abd263b9af0620e8a1b7e6a7c253f72e.pdf
 type: book
 data:
   title: Stochastic Global Optimization

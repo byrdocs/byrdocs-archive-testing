@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 75d6005de169698c1b13d8572fc213f3
-url: https://byrdocs.org/files/75d6005de169698c1b13d8572fc213f3.pdf
+url: https://byrdocs.cpphusky.xyz/files/75d6005de169698c1b13d8572fc213f3.pdf
 type: book
 data:
   title: 机器人学：机构、运动学、动力学及运动规划

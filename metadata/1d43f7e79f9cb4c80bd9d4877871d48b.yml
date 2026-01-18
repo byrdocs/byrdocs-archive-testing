@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1d43f7e79f9cb4c80bd9d4877871d48b
-url: https://byrdocs.org/files/1d43f7e79f9cb4c80bd9d4877871d48b.pdf
+url: https://byrdocs.cpphusky.xyz/files/1d43f7e79f9cb4c80bd9d4877871d48b.pdf
 type: book
 data:
   title: 通信电子电路：微课版

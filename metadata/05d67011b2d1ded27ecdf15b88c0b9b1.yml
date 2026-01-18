@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 05d67011b2d1ded27ecdf15b88c0b9b1
-url: https://byrdocs.org/files/05d67011b2d1ded27ecdf15b88c0b9b1.pdf
+url: https://byrdocs.cpphusky.xyz/files/05d67011b2d1ded27ecdf15b88c0b9b1.pdf
 type: book
 data:
   title: 数字电路与逻辑设计学习指导

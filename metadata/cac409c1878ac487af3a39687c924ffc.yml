@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: cac409c1878ac487af3a39687c924ffc
-url: https://byrdocs.org/files/cac409c1878ac487af3a39687c924ffc.pdf
+url: https://byrdocs.cpphusky.xyz/files/cac409c1878ac487af3a39687c924ffc.pdf
 type: book
 data:
   title: Introduction to Automata Theory, Languages, and Computations

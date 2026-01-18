@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 12bec49abc8fa7762f1ecc9e143a0884
-url: https://byrdocs.org/files/12bec49abc8fa7762f1ecc9e143a0884.pdf
+url: https://byrdocs.cpphusky.xyz/files/12bec49abc8fa7762f1ecc9e143a0884.pdf
 type: book
 data:
   title: Python编程案例教程
