@@ -55,8 +55,8 @@ jobs:
         run: |
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar --overwrite -zxvf pdfium-linux-x64.tgz
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-cmt -O check-cmt
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-pr -O check-pr
+          wget https://github.com/${{ secrets.BYRDOCS_CHECK_REPO_OWNER }}/${{ secrets.BYRDOCS_CHECK_REPO_NAME }}/releases/download/${{ steps.check.outputs.release }}/check-cmt -O check-cmt
+          wget https://github.com/${{ secrets.BYRDOCS_CHECK_REPO_OWNER }}/${{ secrets.BYRDOCS_CHECK_REPO_NAME }}/releases/download/${{ steps.check.outputs.release }}/check-pr -O check-pr
           chmod 777 check-cmt
           chmod 777 check-pr
 
