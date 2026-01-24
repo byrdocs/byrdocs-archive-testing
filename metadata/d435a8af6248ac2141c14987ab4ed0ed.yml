@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: d435a8af6248ac2141c14987ab4ed0ed
-url: https://byrdocs.org/files/d435a8af6248ac2141c14987ab4ed0ed.pdf
+url: https://byrdocs.cpphusky.xyz/files/d435a8af6248ac2141c14987ab4ed0ed.pdf
 type: book
 data:
   title: 操作系统概念（原书第9版）

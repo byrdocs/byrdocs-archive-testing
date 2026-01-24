@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: f84d706dd712f25317df40949026f072
-url: https://byrdocs.org/files/f84d706dd712f25317df40949026f072.pdf
+url: https://byrdocs.cpphusky.xyz/files/f84d706dd712f25317df40949026f072.pdf
 type: book
 data:
   title: Elements of Information Theory

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 3385fa45af7d9dac34513a2a3ac8a349
-url: https://byrdocs.org/files/3385fa45af7d9dac34513a2a3ac8a349.pdf
+url: https://byrdocs.cpphusky.xyz/files/3385fa45af7d9dac34513a2a3ac8a349.pdf
 type: book
 data:
   title: 高质量程序设计指南：C++/C语言

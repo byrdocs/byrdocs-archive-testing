@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 18c7de65abc52ac975562e1835f8755a
-url: https://byrdocs.org/files/18c7de65abc52ac975562e1835f8755a.pdf
+url: https://byrdocs.cpphusky.xyz/files/18c7de65abc52ac975562e1835f8755a.pdf
 type: book
 data:
   title: 编译原理与技术（第2版）学习指导与习题解析

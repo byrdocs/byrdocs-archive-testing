@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 86d5702bbf1346f264c1b99e8dc6c9c5
-url: https://byrdocs.org/files/86d5702bbf1346f264c1b99e8dc6c9c5.pdf
+url: https://byrdocs.cpphusky.xyz/files/86d5702bbf1346f264c1b99e8dc6c9c5.pdf
 type: book
 data:
   title: 计算机组成原理题解、题库与实验

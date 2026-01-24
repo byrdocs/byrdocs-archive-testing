@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9c8f6b777fdeb9bb4c92fb3643a79ba6
-url: https://byrdocs.org/files/9c8f6b777fdeb9bb4c92fb3643a79ba6.pdf
+url: https://byrdocs.cpphusky.xyz/files/9c8f6b777fdeb9bb4c92fb3643a79ba6.pdf
 type: book
 data:
   title: 计算机网络（第5版）

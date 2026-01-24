@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 4bc26f0dcfdb111cd4b557aa5a4a69bd
-url: https://byrdocs.org/files/4bc26f0dcfdb111cd4b557aa5a4a69bd.pdf
+url: https://byrdocs.cpphusky.xyz/files/4bc26f0dcfdb111cd4b557aa5a4a69bd.pdf
 type: book
 data:
   title: 人工智能导论

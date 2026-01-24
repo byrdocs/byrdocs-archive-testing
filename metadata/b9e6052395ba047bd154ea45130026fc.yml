@@ -1,10 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: b9e6052395ba047bd154ea45130026fc
-url: https://byrdocs.org/files/b9e6052395ba047bd154ea45130026fc.pdf
+url: https://byrdocs.cpphusky.xyz/files/b9e6052395ba047bd154ea45130026fc.pdf
 type: book
 data:
-  title: 'All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics)'
+  title: 'All of Statistics: A Concise Course in Statistical Inference (Springer Texts
+    in Statistics)'
   authors:
   - Larry Wasserman
   publisher: Springer

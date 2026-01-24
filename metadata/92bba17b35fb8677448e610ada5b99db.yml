@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 92bba17b35fb8677448e610ada5b99db
-url: https://byrdocs.org/files/92bba17b35fb8677448e610ada5b99db.pdf
+url: https://byrdocs.cpphusky.xyz/files/92bba17b35fb8677448e610ada5b99db.pdf
 type: book
 data:
   title: 物理学教程（第二版）习题分析与解答

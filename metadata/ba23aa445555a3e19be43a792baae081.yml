@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: ba23aa445555a3e19be43a792baae081
-url: https://byrdocs.org/files/ba23aa445555a3e19be43a792baae081.pdf
+url: https://byrdocs.cpphusky.xyz/files/ba23aa445555a3e19be43a792baae081.pdf
 type: book
 data:
   title: 数学分析 下册

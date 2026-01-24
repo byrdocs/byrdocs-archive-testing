@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: f7cc22f7a6ab92c85d75ac226305a004
-url: https://byrdocs.org/files/f7cc22f7a6ab92c85d75ac226305a004.pdf
+url: https://byrdocs.cpphusky.xyz/files/f7cc22f7a6ab92c85d75ac226305a004.pdf
 type: book
 data:
   title: Computer Graphics Principles and Practice

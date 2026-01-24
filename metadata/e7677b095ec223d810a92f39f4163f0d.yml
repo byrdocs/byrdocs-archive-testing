@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: e7677b095ec223d810a92f39f4163f0d
-url: https://byrdocs.org/files/e7677b095ec223d810a92f39f4163f0d.pdf
+url: https://byrdocs.cpphusky.xyz/files/e7677b095ec223d810a92f39f4163f0d.pdf
 type: book
 data:
   title: 高等代数与解析几何 上册

@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: cd38a4ea748f8c4bad0ed951c854285e
-url: https://byrdocs.org/files/cd38a4ea748f8c4bad0ed951c854285e.pdf
+url: https://byrdocs.cpphusky.xyz/files/cd38a4ea748f8c4bad0ed951c854285e.pdf
 type: test
 data:
   college:
-    - 国际学院
+  - 国际学院
   course:
     name: 大学物理D（上）
     type: 本科
@@ -16,4 +16,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

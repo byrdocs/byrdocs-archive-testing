@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 13f647b47f1e40e4b3c35294cbc1386e
-url: https://byrdocs.org/files/13f647b47f1e40e4b3c35294cbc1386e.pdf
+url: https://byrdocs.cpphusky.xyz/files/13f647b47f1e40e4b3c35294cbc1386e.pdf
 type: book
 data:
   title: Fundamentals of Computer Graphics

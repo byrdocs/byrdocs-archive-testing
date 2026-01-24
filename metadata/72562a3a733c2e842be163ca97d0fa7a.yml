@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 72562a3a733c2e842be163ca97d0fa7a
-url: https://byrdocs.org/files/72562a3a733c2e842be163ca97d0fa7a.pdf
+url: https://byrdocs.cpphusky.xyz/files/72562a3a733c2e842be163ca97d0fa7a.pdf
 type: book
 data:
   title: Matrix Computations

@@ -8,7 +8,7 @@ properties:
     type: string
     format: uri
     description: 文件 URL
-    pattern: '^https://byrdocs\.org/files/[0-9A-Za-z]{32}\.(pdf|zip)$'
+    pattern: '^https://byrdocs\.cpphusky\.xyz/files/[0-9A-Za-z]{32}\.(pdf|zip)$'
   type:
     type: string
     enum: [doc]

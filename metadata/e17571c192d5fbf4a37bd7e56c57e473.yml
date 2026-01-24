@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: e17571c192d5fbf4a37bd7e56c57e473
-url: https://byrdocs.org/files/e17571c192d5fbf4a37bd7e56c57e473.pdf
+url: https://byrdocs.cpphusky.xyz/files/e17571c192d5fbf4a37bd7e56c57e473.pdf
 type: book
 data:
   title: C语言程序设计：现代方法（第2版）

@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 13bc49e2bdacee8f6079d3df0c3cf8b4
-url: https://byrdocs.org/files/13bc49e2bdacee8f6079d3df0c3cf8b4.pdf
+url: https://byrdocs.cpphusky.xyz/files/13bc49e2bdacee8f6079d3df0c3cf8b4.pdf
 type: test
 data:
   college:
-    - 信息与通信工程学院
+  - 信息与通信工程学院
   course:
     name: 随机信号分析与处理
     type: 本科
@@ -16,4 +16,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

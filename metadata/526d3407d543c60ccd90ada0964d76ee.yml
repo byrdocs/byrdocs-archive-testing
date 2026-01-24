@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 526d3407d543c60ccd90ada0964d76ee
-url: https://byrdocs.org/files/526d3407d543c60ccd90ada0964d76ee.pdf
+url: https://byrdocs.cpphusky.xyz/files/526d3407d543c60ccd90ada0964d76ee.pdf
 type: book
 data:
   title: 计算机网络：自顶向下方法（原书第七版）

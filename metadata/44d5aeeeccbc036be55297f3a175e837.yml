@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 44d5aeeeccbc036be55297f3a175e837
-url: https://byrdocs.org/files/44d5aeeeccbc036be55297f3a175e837.pdf
+url: https://byrdocs.cpphusky.xyz/files/44d5aeeeccbc036be55297f3a175e837.pdf
 type: book
 data:
   title: 密码学原理与实践（第三版）

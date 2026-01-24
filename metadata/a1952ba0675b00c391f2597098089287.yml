@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: a1952ba0675b00c391f2597098089287
-url: https://byrdocs.org/files/a1952ba0675b00c391f2597098089287.pdf
+url: https://byrdocs.cpphusky.xyz/files/a1952ba0675b00c391f2597098089287.pdf
 type: book
 data:
   title: 概率论与随机过程

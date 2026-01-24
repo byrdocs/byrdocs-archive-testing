@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 01e740dfaff1d9542c8999923721de8a
-url: https://byrdocs.org/files/01e740dfaff1d9542c8999923721de8a.pdf
+url: https://byrdocs.cpphusky.xyz/files/01e740dfaff1d9542c8999923721de8a.pdf
 type: book
 data:
   title: An Introduction to Optimization

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9e6cade55a482829bc0429b8d0b80f9f
-url: https://byrdocs.org/files/9e6cade55a482829bc0429b8d0b80f9f.pdf
+url: https://byrdocs.cpphusky.xyz/files/9e6cade55a482829bc0429b8d0b80f9f.pdf
 type: book
 data:
   title: 电子电路基础

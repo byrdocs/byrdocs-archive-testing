@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 395e58ed2c6c27eb95cfa9280ac844fa
-url: https://byrdocs.org/files/395e58ed2c6c27eb95cfa9280ac844fa.pdf
+url: https://byrdocs.cpphusky.xyz/files/395e58ed2c6c27eb95cfa9280ac844fa.pdf
 type: book
 data:
   title: 大话存储——网络存储系统原理精解与最佳实践

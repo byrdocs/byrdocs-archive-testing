@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 5edefa4dee186e0e25de5b6012f4655f
-url: https://byrdocs.org/files/5edefa4dee186e0e25de5b6012f4655f.pdf
+url: https://byrdocs.cpphusky.xyz/files/5edefa4dee186e0e25de5b6012f4655f.pdf
 type: book
 data:
   title: 信号与系统 上册

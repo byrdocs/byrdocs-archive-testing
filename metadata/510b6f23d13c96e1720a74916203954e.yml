@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 510b6f23d13c96e1720a74916203954e
-url: https://byrdocs.org/files/510b6f23d13c96e1720a74916203954e.pdf
+url: https://byrdocs.cpphusky.xyz/files/510b6f23d13c96e1720a74916203954e.pdf
 type: book
 data:
   title: 组合数学引论

@@ -2,7 +2,7 @@
 
 id: e154859d4f48893ec7653e6ac0836ad8
 
-url: https://byrdocs.org/files/e154859d4f48893ec7653e6ac0836ad8.pdf
+url: https://byrdocs.cpphusky.xyz/files/e154859d4f48893ec7653e6ac0836ad8.pdf
 
 type: test
 
@@ -14,11 +14,10 @@ data:
   time:
     start: '2022'
     end: '2023'
-    
     semester: First
     stage: 期末
-  
+
   filetype: pdf
 
   content:
-    - 原题
+  - 原题

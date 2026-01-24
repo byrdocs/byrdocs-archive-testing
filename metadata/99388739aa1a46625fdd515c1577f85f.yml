@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 99388739aa1a46625fdd515c1577f85f
-url: https://byrdocs.org/files/99388739aa1a46625fdd515c1577f85f.pdf
+url: https://byrdocs.cpphusky.xyz/files/99388739aa1a46625fdd515c1577f85f.pdf
 type: book
 data:
   title: 数字信号处理

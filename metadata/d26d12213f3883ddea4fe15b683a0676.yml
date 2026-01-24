@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: d26d12213f3883ddea4fe15b683a0676
-url: https://byrdocs.org/files/d26d12213f3883ddea4fe15b683a0676.pdf
+url: https://byrdocs.cpphusky.xyz/files/d26d12213f3883ddea4fe15b683a0676.pdf
 type: book
 data:
   title: 多元统计分析

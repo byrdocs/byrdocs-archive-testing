@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: ac125eb2cebaba49bf3d78672d915a0b
-url: https://byrdocs.org/files/ac125eb2cebaba49bf3d78672d915a0b.pdf
+url: https://byrdocs.cpphusky.xyz/files/ac125eb2cebaba49bf3d78672d915a0b.pdf
 type: book
 data:
   title: 复分析 可视化方法

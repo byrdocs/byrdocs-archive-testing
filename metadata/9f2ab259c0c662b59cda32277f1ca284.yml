@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9f2ab259c0c662b59cda32277f1ca284
-url: https://byrdocs.org/files/9f2ab259c0c662b59cda32277f1ca284.pdf
+url: https://byrdocs.cpphusky.xyz/files/9f2ab259c0c662b59cda32277f1ca284.pdf
 type: book
 data:
   title: Numerical Optimization

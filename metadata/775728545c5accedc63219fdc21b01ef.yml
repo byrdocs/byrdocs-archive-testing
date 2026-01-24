@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 775728545c5accedc63219fdc21b01ef
-url: https://byrdocs.org/files/775728545c5accedc63219fdc21b01ef.pdf
+url: https://byrdocs.cpphusky.xyz/files/775728545c5accedc63219fdc21b01ef.pdf
 type: book
 data:
   title: 计算机组成原理

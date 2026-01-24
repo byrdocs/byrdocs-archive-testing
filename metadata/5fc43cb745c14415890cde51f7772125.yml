@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 5fc43cb745c14415890cde51f7772125
-url: https://byrdocs.org/files/5fc43cb745c14415890cde51f7772125.pdf
+url: https://byrdocs.cpphusky.xyz/files/5fc43cb745c14415890cde51f7772125.pdf
 type: book
 data:
   title: 算法数论：格、数域、曲线和密码学

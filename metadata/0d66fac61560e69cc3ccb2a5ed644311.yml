@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 0d66fac61560e69cc3ccb2a5ed644311
-url: https://byrdocs.org/files/0d66fac61560e69cc3ccb2a5ed644311.pdf
+url: https://byrdocs.cpphusky.xyz/files/0d66fac61560e69cc3ccb2a5ed644311.pdf
 type: book
 data:
   title: 数据结构与算法分析：C语言描述（原书第2版）

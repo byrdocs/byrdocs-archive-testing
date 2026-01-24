@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 016ba1e28ac05782be18b2a3b970aace
-url: https://byrdocs.org/files/016ba1e28ac05782be18b2a3b970aace.pdf
+url: https://byrdocs.cpphusky.xyz/files/016ba1e28ac05782be18b2a3b970aace.pdf
 type: test
 data:
   college:
-    - 国际学院
+  - 国际学院
   course:
     name: 多媒体基础
     type: 本科
@@ -16,4 +16,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

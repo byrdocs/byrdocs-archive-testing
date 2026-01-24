@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 98c679fa51bfce2752213fe0809bfb39
-url: https://byrdocs.org/files/98c679fa51bfce2752213fe0809bfb39.pdf
+url: https://byrdocs.cpphusky.xyz/files/98c679fa51bfce2752213fe0809bfb39.pdf
 type: book
 data:
   title: Linear Algebra and Its Applications

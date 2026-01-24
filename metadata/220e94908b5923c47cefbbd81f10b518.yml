@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 220e94908b5923c47cefbbd81f10b518
-url: https://byrdocs.org/files/220e94908b5923c47cefbbd81f10b518.pdf
+url: https://byrdocs.cpphusky.xyz/files/220e94908b5923c47cefbbd81f10b518.pdf
 type: book
 data:
   title: 工程数学 矢量分析与场论

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1df16655ff72f820ce3621b27cce5791
-url: https://byrdocs.org/files/1df16655ff72f820ce3621b27cce5791.pdf
+url: https://byrdocs.cpphusky.xyz/files/1df16655ff72f820ce3621b27cce5791.pdf
 type: book
 data:
   title: 算法笔记

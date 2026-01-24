@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1ee8d03b91962aeed0897d766857830a
-url: https://byrdocs.org/files/1ee8d03b91962aeed0897d766857830a.pdf
+url: https://byrdocs.cpphusky.xyz/files/1ee8d03b91962aeed0897d766857830a.pdf
 type: book
 data:
   title: 计算机操作系统：慕课版

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 54ed72b53165a9a0441bc4fe3fdff917
-url: https://byrdocs.org/files/54ed72b53165a9a0441bc4fe3fdff917.pdf
+url: https://byrdocs.cpphusky.xyz/files/54ed72b53165a9a0441bc4fe3fdff917.pdf
 type: book
 data:
   title: 矩阵论

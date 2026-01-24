@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 7a60522f051ee295ed476ce8dbe44a75
-url: https://byrdocs.org/files/7a60522f051ee295ed476ce8dbe44a75.pdf
+url: https://byrdocs.cpphusky.xyz/files/7a60522f051ee295ed476ce8dbe44a75.pdf
 type: book
 data:
   title: 数学物理方法——理论、历史与计算机

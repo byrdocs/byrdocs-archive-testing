@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 491ce071a29e3969624b4e47380bbf1e
-url: https://byrdocs.org/files/491ce071a29e3969624b4e47380bbf1e.pdf
+url: https://byrdocs.cpphusky.xyz/files/491ce071a29e3969624b4e47380bbf1e.pdf
 type: book
 data:
   title: Linear Algebra Done Right

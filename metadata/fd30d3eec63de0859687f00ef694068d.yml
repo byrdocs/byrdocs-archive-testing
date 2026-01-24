@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: fd30d3eec63de0859687f00ef694068d
-url: https://byrdocs.org/files/fd30d3eec63de0859687f00ef694068d.pdf
+url: https://byrdocs.cpphusky.xyz/files/fd30d3eec63de0859687f00ef694068d.pdf
 type: book
 data:
   title: 概率论与数理统计习题全解指南（浙大·四版）

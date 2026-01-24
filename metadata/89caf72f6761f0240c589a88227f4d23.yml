@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 89caf72f6761f0240c589a88227f4d23
-url: https://byrdocs.org/files/89caf72f6761f0240c589a88227f4d23.pdf
+url: https://byrdocs.cpphusky.xyz/files/89caf72f6761f0240c589a88227f4d23.pdf
 type: book
 data:
   title: 随机信号分析与处理

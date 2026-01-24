@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 686ba1fb30d0a12f75512ad1e0863462
-url: https://byrdocs.org/files/686ba1fb30d0a12f75512ad1e0863462.pdf
+url: https://byrdocs.cpphusky.xyz/files/686ba1fb30d0a12f75512ad1e0863462.pdf
 type: book
 data:
   title: 线性代数（原书第8版）

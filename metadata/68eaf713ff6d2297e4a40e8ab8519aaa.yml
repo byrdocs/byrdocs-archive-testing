@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 68eaf713ff6d2297e4a40e8ab8519aaa
-url: https://byrdocs.org/files/68eaf713ff6d2297e4a40e8ab8519aaa.pdf
+url: https://byrdocs.cpphusky.xyz/files/68eaf713ff6d2297e4a40e8ab8519aaa.pdf
 type: book
 data:
   title: MySQL必知必会

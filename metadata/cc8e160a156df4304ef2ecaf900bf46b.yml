@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: cc8e160a156df4304ef2ecaf900bf46b
-url: https://byrdocs.org/files/cc8e160a156df4304ef2ecaf900bf46b.pdf
+url: https://byrdocs.cpphusky.xyz/files/cc8e160a156df4304ef2ecaf900bf46b.pdf
 type: book
 data:
   title: 汇编语言

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: f5c623be96e601eaa4a80cc0b9e7847d
-url: https://byrdocs.org/files/f5c623be96e601eaa4a80cc0b9e7847d.pdf
+url: https://byrdocs.cpphusky.xyz/files/f5c623be96e601eaa4a80cc0b9e7847d.pdf
 type: book
 data:
   title: 高等代数 上册

@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: 464c91737160fb8217e04c71622d3012
-url: https://byrdocs.org/files/464c91737160fb8217e04c71622d3012.pdf
+url: https://byrdocs.cpphusky.xyz/files/464c91737160fb8217e04c71622d3012.pdf
 type: test
 data:
   college:
-    - 智能工程与自动化学院
+  - 智能工程与自动化学院
   course:
     name: 高等数学A（上）
     type: 本科
@@ -16,5 +16,5 @@ data:
     stage: 期中
   filetype: pdf
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

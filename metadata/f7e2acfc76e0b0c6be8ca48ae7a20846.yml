@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: f7e2acfc76e0b0c6be8ca48ae7a20846
-url: https://byrdocs.org/files/f7e2acfc76e0b0c6be8ca48ae7a20846.pdf
+url: https://byrdocs.cpphusky.xyz/files/f7e2acfc76e0b0c6be8ca48ae7a20846.pdf
 type: test
 data:
   college:
-    - 未来学院
+  - 未来学院
   course:
     name: 通信原理与实践
     type: 本科
@@ -16,4 +16,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

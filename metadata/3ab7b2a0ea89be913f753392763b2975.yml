@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 3ab7b2a0ea89be913f753392763b2975
-url: https://byrdocs.org/files/3ab7b2a0ea89be913f753392763b2975.pdf
+url: https://byrdocs.cpphusky.xyz/files/3ab7b2a0ea89be913f753392763b2975.pdf
 type: book
 data:
   title: 复变函数论方法（复6版）

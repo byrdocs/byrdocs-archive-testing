@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: e95e92d662404e2a89958c8338989e9e
-url: https://byrdocs.org/files/e95e92d662404e2a89958c8338989e9e.pdf
+url: https://byrdocs.cpphusky.xyz/files/e95e92d662404e2a89958c8338989e9e.pdf
 type: book
 data:
   title: Partial Differential Equations

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 51a645280ae361ae78392ebbfbdaa37c
-url: https://byrdocs.org/files/51a645280ae361ae78392ebbfbdaa37c.pdf
+url: https://byrdocs.cpphusky.xyz/files/51a645280ae361ae78392ebbfbdaa37c.pdf
 type: book
 data:
   title: 运筹学

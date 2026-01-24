@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: aca7d97687a23dfe00b815d44b2e2daf
-url: https://byrdocs.org/files/aca7d97687a23dfe00b815d44b2e2daf.pdf
+url: https://byrdocs.cpphusky.xyz/files/aca7d97687a23dfe00b815d44b2e2daf.pdf
 type: book
 data:
   title: 计算几何：算法与应用

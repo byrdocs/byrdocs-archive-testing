@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 9aa4249675de591a5c0a3cb2498ab815
-url: https://byrdocs.org/files/9aa4249675de591a5c0a3cb2498ab815.pdf
+url: https://byrdocs.cpphusky.xyz/files/9aa4249675de591a5c0a3cb2498ab815.pdf
 type: book
 data:
   title: 数字图像处理的MATLAB实现（第2版）

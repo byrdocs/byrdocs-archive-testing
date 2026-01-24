@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: b45bd5d0088f0646f64dff3b1ff032dc
-url: https://byrdocs.org/files/b45bd5d0088f0646f64dff3b1ff032dc.pdf
+url: https://byrdocs.cpphusky.xyz/files/b45bd5d0088f0646f64dff3b1ff032dc.pdf
 type: book
 data:
   title: Complex Analysis

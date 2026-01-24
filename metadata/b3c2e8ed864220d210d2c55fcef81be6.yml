@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: b3c2e8ed864220d210d2c55fcef81be6
-url: https://byrdocs.org/files/b3c2e8ed864220d210d2c55fcef81be6.pdf
+url: https://byrdocs.cpphusky.xyz/files/b3c2e8ed864220d210d2c55fcef81be6.pdf
 type: book
 data:
   title: 程序设计（C语言）实验指导

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: b4514bddee861cb5707a764b3c766a6e
-url: https://byrdocs.org/files/b4514bddee861cb5707a764b3c766a6e.pdf
+url: https://byrdocs.cpphusky.xyz/files/b4514bddee861cb5707a764b3c766a6e.pdf
 type: book
 data:
   title: 概率极限理论基础

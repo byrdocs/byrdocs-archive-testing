@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 1cc9c2db6e33175965a31fd7ba1f59c8
-url: https://byrdocs.org/files/1cc9c2db6e33175965a31fd7ba1f59c8.pdf
+url: https://byrdocs.cpphusky.xyz/files/1cc9c2db6e33175965a31fd7ba1f59c8.pdf
 type: book
 data:
   title: 现代通信技术

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 538967badbec1367ef14eb73b55b4be6
-url: https://byrdocs.org/files/538967badbec1367ef14eb73b55b4be6.pdf
+url: https://byrdocs.cpphusky.xyz/files/538967badbec1367ef14eb73b55b4be6.pdf
 type: book
 data:
   title: Pattern Recognition and Machine Learning

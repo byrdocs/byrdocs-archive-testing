@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: d4008144c934abfd4a0d85610254e4fb
-url: https://byrdocs.org/files/d4008144c934abfd4a0d85610254e4fb.pdf
+url: https://byrdocs.cpphusky.xyz/files/d4008144c934abfd4a0d85610254e4fb.pdf
 type: test
 data:
   college:
-    - 计算机学院（国家示范性软件学院）
-    - 未来学院
+  - 计算机学院（国家示范性软件学院）
+  - 未来学院
   course:
     name: 计算机组成与系统结构
     type: 本科
@@ -17,4 +17,4 @@ data:
     stage: 期末
   filetype: pdf
   content:
-    - 原题
+  - 原题

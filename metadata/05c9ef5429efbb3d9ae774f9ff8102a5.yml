@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 05c9ef5429efbb3d9ae774f9ff8102a5
-url: https://byrdocs.org/files/05c9ef5429efbb3d9ae774f9ff8102a5.pdf
+url: https://byrdocs.cpphusky.xyz/files/05c9ef5429efbb3d9ae774f9ff8102a5.pdf
 type: book
 data:
   title: ARM体系结构与编程

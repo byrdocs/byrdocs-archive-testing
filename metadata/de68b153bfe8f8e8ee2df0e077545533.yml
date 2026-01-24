@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: de68b153bfe8f8e8ee2df0e077545533
-url: https://byrdocs.org/files/de68b153bfe8f8e8ee2df0e077545533.pdf
+url: https://byrdocs.cpphusky.xyz/files/de68b153bfe8f8e8ee2df0e077545533.pdf
 type: book
 data:
   title: 数据库系统概论

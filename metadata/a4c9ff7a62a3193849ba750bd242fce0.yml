@@ -1,10 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: a4c9ff7a62a3193849ba750bd242fce0
-url: https://byrdocs.org/files/a4c9ff7a62a3193849ba750bd242fce0.pdf
+url: https://byrdocs.cpphusky.xyz/files/a4c9ff7a62a3193849ba750bd242fce0.pdf
 type: book
 data:
-  title: 演讲的艺术教师用书：第10版：中国版/The Art of Public Speaking Teacher’s Manual, Tenth Edition, Specially adapted for Chinese readers
+  title: 演讲的艺术教师用书：第10版：中国版/The Art of Public Speaking Teacher’s Manual, Tenth 
+    Edition, Specially adapted for Chinese readers
   authors:
   - Lucas, S. E.
   - 殷苏娅

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 3b597d14bfeab1e5eaeb5582e7c8f9a8
-url: https://byrdocs.org/files/3b597d14bfeab1e5eaeb5582e7c8f9a8.pdf
+url: https://byrdocs.cpphusky.xyz/files/3b597d14bfeab1e5eaeb5582e7c8f9a8.pdf
 type: book
 data:
   title: 应用密码学

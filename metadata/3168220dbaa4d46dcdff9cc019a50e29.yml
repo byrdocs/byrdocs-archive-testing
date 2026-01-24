@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 3168220dbaa4d46dcdff9cc019a50e29
-url: https://byrdocs.org/files/3168220dbaa4d46dcdff9cc019a50e29.pdf
+url: https://byrdocs.cpphusky.xyz/files/3168220dbaa4d46dcdff9cc019a50e29.pdf
 type: book
 data:
   title: Cryptography and Network Security

@@ -4,7 +4,7 @@
 id: ec06d154fb3ec32eaea65cd1d1fe5618
 
 # 通过 byrdocs-cli 上传文件后得到的 URL
-url: https://byrdocs.org/files/ec06d154fb3ec32eaea65cd1d1fe5618.pdf
+url: https://byrdocs.cpphusky.xyz/files/ec06d154fb3ec32eaea65cd1d1fe5618.pdf
 
 # 必须是 book/test/doc 三者之一。
 # 一旦确定下来，后续的内容必须按照以下格式填写
@@ -14,7 +14,7 @@ data:
   # 如未知学院，可省略此字段
   # 只有当你确认「此学院在当时实际考过这份考卷」时，才可以填写这个学院。如无法确认，应当不填
   college:
-    - 信息与通信工程学院
+  - 信息与通信工程学院
 
   # 试题相关的课程，必填
   course:
@@ -46,5 +46,5 @@ data:
   # 如果答案不能涵盖绝大多数题目（如，只有选择题答案，没有简答题答案），不能算作「答案」
   # 如果题目显著不全，答案也显著不全，这样的文件不应当被收录
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

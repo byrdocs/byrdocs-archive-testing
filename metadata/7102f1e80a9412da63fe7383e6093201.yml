@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 7102f1e80a9412da63fe7383e6093201
-url: https://byrdocs.org/files/7102f1e80a9412da63fe7383e6093201.pdf
+url: https://byrdocs.cpphusky.xyz/files/7102f1e80a9412da63fe7383e6093201.pdf
 type: book
 data:
   title: Verilog数字系统设计教程

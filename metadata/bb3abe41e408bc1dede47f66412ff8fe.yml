@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: bb3abe41e408bc1dede47f66412ff8fe
-url: https://byrdocs.org/files/bb3abe41e408bc1dede47f66412ff8fe.pdf
+url: https://byrdocs.cpphusky.xyz/files/bb3abe41e408bc1dede47f66412ff8fe.pdf
 type: book
 data:
   title: 智能无线通信

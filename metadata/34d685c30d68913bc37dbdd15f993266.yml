@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
 id: 34d685c30d68913bc37dbdd15f993266
-url: https://byrdocs.org/files/34d685c30d68913bc37dbdd15f993266.pdf
+url: https://byrdocs.cpphusky.xyz/files/34d685c30d68913bc37dbdd15f993266.pdf
 type: book
 data:
   title: Java语言程序设计与数据结构（基础篇）
